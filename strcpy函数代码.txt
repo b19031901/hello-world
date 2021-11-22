@@ -12,5 +12,7 @@ char *strcpy(char *strDest, const char *strSrc)
 }
  
 /**
+<<<<<<< HEAD
  本地编辑 B19031901 乔平平
 **/
+
