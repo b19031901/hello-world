@@ -9,6 +9,7 @@ char *strcpy(char *strDest, const char *strSrc)
 
     return address ;                         
 
+<<<<<<< HEAD
 }
  
 /**
@@ -16,3 +17,6 @@ char *strcpy(char *strDest, const char *strSrc)
  本地编辑 B19031901 乔平平
 **/
 
+=======
+}
+>>>>>>> parent of 43ae5d4... Update strcpy鍑芥暟浠ｇ爜.txt
